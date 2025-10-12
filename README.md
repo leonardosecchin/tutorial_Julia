@@ -26,3 +26,8 @@ Códigos: veja arquivos `.jl`
 Instâncias do problema GAP: veja pasta "GAP"
 
 **Para baixar todo o conteúdo, acesse "Code" -> "Download ZIP"**
+
+
+## Banco de problemas-teste e mais
+
+O Julia oferece interfaces para vários bancos de problemas-teste. Você encontra interfaces não citadas no material deste tutorial [neste link](https://leonardosecchin.github.io/julia).
