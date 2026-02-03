@@ -16,7 +16,7 @@ Tutorial de apoio às disciplinas de otimização contínua do curso de matemát
 **Tempo estimado para realização deste tutorial:** 10 horas
 
 
-## Material
+## Material (última revisão: 03/02/2026)
 
 - [Versão PDF](/tutorial.pdf) (clique no ícone ![](/imagens/download.png) para baixar)
 - [Notebook Jupyter-lab](/tutorial.ipynb)
