@@ -36,14 +36,14 @@ O Julia oferece interfaces para vários bancos de problemas-teste. A seguir, alg
 
 ## Miscelânea
 
-- Interface para *datasets* presentes na linguagem R: `[RDatasets.jl](https://github.com/JuliaStats/RDatasets.jl)`
+- Interface para *datasets* presentes na linguagem R: [`RDatasets.jl`](https://github.com/JuliaStats/RDatasets.jl)
 
 
 ## Leitura de arquivos em formatos específicos
 
 - Leitura de arquivos [AMPL](https://ampl.com/) (`.nl`): [`AmplNLReader.jl`](https://github.com/JuliaSmoothOptimizers/AmplNLReader.jl)
 - Leitura de arquivos `MPS` e `QPS` (programação linear e quadrática): [`QPSReader.jl`](https://github.com/JuliaSmoothOptimizers/QPSReader.jl)
-- Leitura de arquivo MAT (Matlab): `[MAT.jl](https://github.com/JuliaIO/MAT.jl)`
+- Leitura de arquivo MAT (Matlab): [`MAT.jl`](https://github.com/JuliaIO/MAT.jl)
 
 
 ## Fontes sem interface para Julia
