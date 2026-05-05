@@ -30,4 +30,9 @@ Instâncias do problema GAP: veja pasta "GAP"
 
 ## Banco de problemas-teste e mais
 
-O Julia oferece interfaces para vários bancos de problemas-teste. Você encontra interfaces não citadas no material deste tutorial [neste link](https://leonardosecchin.github.io/julia).
+O Julia oferece interfaces para vários bancos de problemas-teste. Você encontra interfaces não citadas no material deste tutorial [neste link](/problemas-teste.md).
+
+
+## Pacotes interessantes
+
+[Acesse dicas de pacotes interessantes não citados neste tutorial](/pacotes.md). 
