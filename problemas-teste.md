@@ -28,10 +28,10 @@ O Julia oferece interfaces para vários bancos de problemas-teste. A seguir, alg
 
 ## Conjuntos de dados para aprendizado de máquina
 
-- Acesso a vários *datasets*: `[OpenML.jl](https://github.com/JuliaAI/OpenML.jl)`
-- Pequeno pacote com alguns *datasets*: `[MLDatasets.jl](https://github.com/JuliaML/MLDatasets.jl)`
-- Leitura de planilhas CSV: `[CSV.jl](https://github.com/JuliaData/CSV.jl)`
-- Leitura de arquivos TXT estruturados: `[DelimitedFiles.jl](https://github.com/JuliaData/DelimitedFiles.jl)`
+- Acesso a vários *datasets*: [`OpenML.jl`](https://github.com/JuliaAI/OpenML.jl)
+- Pequeno pacote com alguns *datasets*: [`MLDatasets.jl`](https://github.com/JuliaML/MLDatasets.jl)
+- Leitura de planilhas CSV: [`CSV.jl`](https://github.com/JuliaData/CSV.jl)
+- Leitura de arquivos TXT estruturados: [`DelimitedFiles.jl`](https://github.com/JuliaData/DelimitedFiles.jl)
 
 
 ## Miscelânea
