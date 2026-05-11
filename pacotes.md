@@ -18,7 +18,7 @@
 
 - [`LineSearches.jl`](https://github.com/julianlsolvers/linesearches.jl). Buscas lineares prontas para uso.
 - [`QuadraticModels.jl`](https://github.com/JuliaSmoothOptimizers/QuadraticModels.jl). Escrita de modelos de otimização quadráticos no formato `NLPModels` com cálculo eficiente de derivadas.
-- [`RipQP.jl`](https://github.com/JuliaSmoothOptimizers/RipQP.jl). Um método eficiente de pontos interiores para programação linear e quadrática que usa `QuadraticModels.jl.
+- [`RipQP.jl`](https://github.com/JuliaSmoothOptimizers/RipQP.jl). Um método eficiente de pontos interiores para programação linear e quadrática que usa `QuadraticModels.jl`.
 - [`HiGHS.jl`](https://github.com/jump-dev/HiGHS.jl). Interface para [HiGHS](https://highs.dev/), um *solver* livre para programação linear.
 - [`ExaModels.jl`](https://github.com/exanauts/ExaModels.jl). Modelos de otimização ao estilo `NLPModels` que permite computar derivadas automáticas em paralelo, incluindo em GPUs, de forma eficiente.
 - [`SCIP.jl`](https://github.com/scipopt/SCIP.jl). Interface para [SCIP](https://scipopt.org/), um *solver* livre para problemas de programação linear inteira mista.
