@@ -13,6 +13,7 @@
 - `Printf.jl`. Impressão estilo C.
 - [`Format.jl`](https://github.com/JuliaString/Format.jl). Formatação estilo C (mais eficiente que Printf).
 - [`Latexify.jl`](https://github.com/korsbo/Latexify.jl). Converte objetos Julia em código LaTeX.
+- [`PrettyTables.jl`](https://github.com/ronisbr/PrettyTables.jl). Tabelas com recursos sofisticados. Exporta para código LaTeX e HTML.
 
 ## Otimização
 
