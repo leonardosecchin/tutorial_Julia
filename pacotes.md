@@ -15,14 +15,18 @@
 - [`Latexify.jl`](https://github.com/korsbo/Latexify.jl). Converte objetos Julia em código LaTeX.
 - [`PrettyTables.jl`](https://github.com/ronisbr/PrettyTables.jl). Tabelas com recursos sofisticados. Exporta para código LaTeX e HTML.
 
-## Otimização
+## Otimização / Métodos de otimização
 
 - [`LineSearches.jl`](https://github.com/julianlsolvers/linesearches.jl). Buscas lineares prontas para uso.
-- [`QuadraticModels.jl`](https://github.com/JuliaSmoothOptimizers/QuadraticModels.jl). Escrita de modelos de otimização quadráticos no formato `NLPModels` com cálculo eficiente de derivadas.
+- [`QuadraticModels.jl`](https://github.com/JuliaSmoothOptimizers/QuadraticModels.jl). Escrita de modelos de otimização quadráticos no formato - [`ExaModels.jl`](https://github.com/exanauts/ExaModels.jl). Modelos de otimização ao estilo `NLPModels` que permite computar derivadas automáticas em paralelo, incluindo em GPUs, de forma eficiente.
+- [`Enzyme.jl`](https://github.com/EnzymeAD/Enzyme.jl) e [`FastDifferentiation.jl`](https://github.com/brianguenter/FastDifferentiation.jl). Pacotes para diferenciação automática que "geram o código" de gradientes e hessianas. Isso torna a diferenciação eficiente, próxima à implementação manual das derivadas.
 - [`RipQP.jl`](https://github.com/JuliaSmoothOptimizers/RipQP.jl). Um método eficiente de pontos interiores para programação linear e quadrática que usa `QuadraticModels.jl`.
 - [`HiGHS.jl`](https://github.com/jump-dev/HiGHS.jl). Interface para [HiGHS](https://highs.dev/), um *solver* livre para programação linear.
-- [`ExaModels.jl`](https://github.com/exanauts/ExaModels.jl). Modelos de otimização ao estilo `NLPModels` que permite computar derivadas automáticas em paralelo, incluindo em GPUs, de forma eficiente.
 - [`SCIP.jl`](https://github.com/scipopt/SCIP.jl). Interface para [SCIP](https://scipopt.org/), um *solver* livre para problemas de programação linear inteira mista.
+- [`LBFGSB.jl`](https://github.com/Gnimuc/LBFGSB.jl). Interface para [L-BFGS-B](https://users.iems.northwestern.edu/%7Enocedal/lbfgsb.html), um *solver* eficiente escrito em Fortran para problemas de grande porte com limitantes nas variáveis.
+- [`NLopt.jl`](https://github.com/jump-dev/NLopt.jl). Interface para a biblioteca [NLopt](https://nlopt.readthedocs.io/en/latest/), que implementa de forma eficiente [vários algoritmos](https://nlopt.readthedocs.io/en/latest/NLopt_Algorithms/) consolidados na literatura.
+- [`MadNLP.jl`](https://github.com/MadNLP/MadNLP.jl). Método de pontos interiores similar à `Ipopt` que pode ser executado em GPUs.
+- [`Manopt.jl`](https://github.com/JuliaManifolds/Manopt.jl). Resolução de problemas de otimização sobre variedades Riemmanianas.
 
 ## Operações com vetores e matrizes
 
