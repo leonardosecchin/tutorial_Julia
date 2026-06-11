@@ -18,8 +18,8 @@ Tutorial de apoio às disciplinas de otimização contínua do curso de matemát
 
 ## Material (última revisão: 08/04/2026)
 
-- [Versão PDF](/tutorial.pdf) (clique no ícone ![](/imagens/download.png) para baixar)
-- [Notebook Jupyter-lab](/tutorial.ipynb)
+- [Versão PDF](https://raw.githubusercontent.com/leonardosecchin/tutorial_Julia/main/tutorial.pdf)
+- [Notebook Jupyter-lab](https://raw.github.com/leonardosecchin/tutorial_Julia/main/tutorial.ipynb)
 
 Códigos: veja arquivos `.jl`
 
