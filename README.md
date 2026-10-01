@@ -16,7 +16,7 @@ Tutorial de apoio às disciplinas de otimização contínua do curso de matemát
 **Tempo estimado para realização deste tutorial:** 10 horas
 
 
-## Material (última revisão: 08/04/2026)
+## Material (última revisão: 30/09/2026)
 
 - [Versão PDF](https://raw.githubusercontent.com/leonardosecchin/tutorial_Julia/main/tutorial.pdf)
 - [Notebook Jupyter-lab](https://raw.github.com/leonardosecchin/tutorial_Julia/main/tutorial.ipynb)
