@@ -1,1 +1,2 @@
 jupyter-nbconvert --to html tutorial.ipynb
+google-chrome --headless --disable-gpu --print-to-pdf=tutorial.pdf --no-pdf-header-footer tutorial.html
